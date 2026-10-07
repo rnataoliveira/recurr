@@ -1,0 +1,1008 @@
+[
+ {
+  "name": "Netflix",
+  "category": "Video streaming",
+  "domain": "netflix.com",
+  "plans": [
+   {
+    "name": "Standard with ads",
+    "priceCents": 2090,
+    "currency": "BRL",
+    "cycle": "monthly"
+   },
+   {
+    "name": "Standard",
+    "priceCents": 4490,
+    "currency": "BRL",
+    "cycle": "monthly"
+   },
+   {
+    "name": "Premium",
+    "priceCents": 5990,
+    "currency": "BRL",
+    "cycle": "monthly"
+   }
+  ]
+ },
+ {
+  "name": "Prime Video",
+  "category": "Video streaming",
+  "domain": "primevideo.com",
+  "plans": [
+   {
+    "name": "Monthly",
+    "priceCents": 1990,
+    "currency": "BRL",
+    "cycle": "monthly"
+   },
+   {
+    "name": "Annual",
+    "priceCents": 16680,
+    "currency": "BRL",
+    "cycle": "yearly"
+   }
+  ]
+ },
+ {
+  "name": "Disney+",
+  "category": "Video streaming",
+  "domain": "disneyplus.com",
+  "plans": [
+   {
+    "name": "Standard with ads",
+    "priceCents": 2799,
+    "currency": "BRL",
+    "cycle": "monthly"
+   },
+   {
+    "name": "Standard",
+    "priceCents": 4690,
+    "currency": "BRL",
+    "cycle": "monthly"
+   },
+   {
+    "name": "Standard annual",
+    "priceCents": 36890,
+    "currency": "BRL",
+    "cycle": "yearly"
+   }
+  ]
+ },
+ {
+  "name": "Max",
+  "category": "Video streaming",
+  "domain": "max.com",
+  "plans": [
+   {
+    "name": "Basic with ads",
+    "priceCents": 2990,
+    "currency": "BRL",
+    "cycle": "monthly"
+   },
+   {
+    "name": "Platinum",
+    "priceCents": 5590,
+    "currency": "BRL",
+    "cycle": "monthly"
+   }
+  ]
+ },
+ {
+  "name": "Apple TV+",
+  "category": "Video streaming",
+  "domain": "tv.apple.com",
+  "plans": [
+   {
+    "name": "Monthly",
+    "priceCents": 2990,
+    "currency": "BRL",
+    "cycle": "monthly"
+   }
+  ]
+ },
+ {
+  "name": "Globoplay",
+  "category": "Video streaming",
+  "domain": "globoplay.globo.com",
+  "plans": [
+   {
+    "name": "Basic with ads",
+    "priceCents": 2290,
+    "currency": "BRL",
+    "cycle": "monthly"
+   },
+   {
+    "name": "Premium",
+    "priceCents": 3990,
+    "currency": "BRL",
+    "cycle": "monthly"
+   }
+  ]
+ },
+ {
+  "name": "Paramount+",
+  "category": "Video streaming",
+  "domain": "paramountplus.com",
+  "plans": [
+   {
+    "name": "Basic",
+    "priceCents": 3490,
+    "currency": "BRL",
+    "cycle": "monthly"
+   },
+   {
+    "name": "Premium",
+    "priceCents": 4490,
+    "currency": "BRL",
+    "cycle": "monthly"
+   }
+  ]
+ },
+ {
+  "name": "Crunchyroll",
+  "category": "Video streaming",
+  "domain": "crunchyroll.com"
+ },
+ {
+  "name": "Viki",
+  "category": "Video streaming",
+  "domain": "viki.com"
+ },
+ {
+  "name": "MUBI",
+  "category": "Video streaming",
+  "domain": "mubi.com"
+ },
+ {
+  "name": "Telecine",
+  "category": "Video streaming",
+  "domain": "telecine.com.br"
+ },
+ {
+  "name": "Universal+",
+  "category": "Video streaming",
+  "domain": "universalplus.com"
+ },
+ {
+  "name": "Looke",
+  "category": "Video streaming",
+  "domain": "looke.com.br"
+ },
+ {
+  "name": "Claro TV+",
+  "category": "Video streaming",
+  "domain": "claro.com.br"
+ },
+ {
+  "name": "Pluto TV",
+  "category": "Video streaming",
+  "domain": "pluto.tv"
+ },
+ {
+  "name": "Lionsgate+",
+  "category": "Video streaming",
+  "domain": "lionsgateplus.com"
+ },
+ {
+  "name": "Discovery+",
+  "category": "Video streaming",
+  "domain": "discoveryplus.com"
+ },
+ {
+  "name": "Hulu",
+  "category": "Video streaming",
+  "domain": "hulu.com"
+ },
+ {
+  "name": "Peacock",
+  "category": "Video streaming",
+  "domain": "peacocktv.com"
+ },
+ {
+  "name": "Spotify",
+  "category": "Music & audio",
+  "domain": "spotify.com",
+  "plans": [
+   {
+    "name": "Individual",
+    "priceCents": 2390,
+    "currency": "BRL",
+    "cycle": "monthly"
+   },
+   {
+    "name": "Student",
+    "priceCents": 1290,
+    "currency": "BRL",
+    "cycle": "monthly"
+   },
+   {
+    "name": "Duo",
+    "priceCents": 3190,
+    "currency": "BRL",
+    "cycle": "monthly"
+   },
+   {
+    "name": "Family",
+    "priceCents": 4090,
+    "currency": "BRL",
+    "cycle": "monthly"
+   }
+  ]
+ },
+ {
+  "name": "Apple Music",
+  "category": "Music & audio",
+  "domain": "music.apple.com",
+  "plans": [
+   {
+    "name": "Individual",
+    "priceCents": 2190,
+    "currency": "BRL",
+    "cycle": "monthly"
+   },
+   {
+    "name": "Student",
+    "priceCents": 1190,
+    "currency": "BRL",
+    "cycle": "monthly"
+   },
+   {
+    "name": "Family",
+    "priceCents": 3490,
+    "currency": "BRL",
+    "cycle": "monthly"
+   }
+  ]
+ },
+ {
+  "name": "YouTube Music",
+  "category": "Music & audio",
+  "domain": "music.youtube.com"
+ },
+ {
+  "name": "Deezer",
+  "category": "Music & audio",
+  "domain": "deezer.com",
+  "plans": [
+   {
+    "name": "Premium",
+    "priceCents": 2490,
+    "currency": "BRL",
+    "cycle": "monthly"
+   },
+   {
+    "name": "Duo",
+    "priceCents": 3290,
+    "currency": "BRL",
+    "cycle": "monthly"
+   },
+   {
+    "name": "Family",
+    "priceCents": 3990,
+    "currency": "BRL",
+    "cycle": "monthly"
+   }
+  ]
+ },
+ {
+  "name": "Amazon Music Unlimited",
+  "category": "Music & audio",
+  "domain": "music.amazon.com",
+  "plans": [
+   {
+    "name": "Individual",
+    "priceCents": 1990,
+    "currency": "BRL",
+    "cycle": "monthly"
+   },
+   {
+    "name": "Prime members",
+    "priceCents": 1490,
+    "currency": "BRL",
+    "cycle": "monthly"
+   }
+  ]
+ },
+ {
+  "name": "Tidal",
+  "category": "Music & audio",
+  "domain": "tidal.com"
+ },
+ {
+  "name": "Audible",
+  "category": "Music & audio",
+  "domain": "audible.com"
+ },
+ {
+  "name": "SoundCloud Go",
+  "category": "Music & audio",
+  "domain": "soundcloud.com"
+ },
+ {
+  "name": "Qobuz",
+  "category": "Music & audio",
+  "domain": "qobuz.com"
+ },
+ {
+  "name": "Ubook",
+  "category": "Music & audio",
+  "domain": "ubook.com"
+ },
+ {
+  "name": "YouTube Premium",
+  "category": "Video platforms & creators",
+  "domain": "youtube.com",
+  "plans": [
+   {
+    "name": "Individual",
+    "priceCents": 2690,
+    "currency": "BRL",
+    "cycle": "monthly"
+   },
+   {
+    "name": "Student",
+    "priceCents": 1690,
+    "currency": "BRL",
+    "cycle": "monthly"
+   },
+   {
+    "name": "Family",
+    "priceCents": 5390,
+    "currency": "BRL",
+    "cycle": "monthly"
+   },
+   {
+    "name": "Lite",
+    "priceCents": 1690,
+    "currency": "BRL",
+    "cycle": "monthly"
+   }
+  ]
+ },
+ {
+  "name": "Twitch",
+  "category": "Video platforms & creators",
+  "domain": "twitch.tv"
+ },
+ {
+  "name": "Patreon",
+  "category": "Video platforms & creators",
+  "domain": "patreon.com"
+ },
+ {
+  "name": "Apoia.se",
+  "category": "Video platforms & creators",
+  "domain": "apoia.se"
+ },
+ {
+  "name": "Catarse",
+  "category": "Video platforms & creators",
+  "domain": "catarse.me"
+ },
+ {
+  "name": "Premiere",
+  "category": "Sports & live TV",
+  "domain": "premiere.globo.com"
+ },
+ {
+  "name": "DAZN",
+  "category": "Sports & live TV",
+  "domain": "dazn.com"
+ },
+ {
+  "name": "Sky+",
+  "category": "Sports & live TV",
+  "domain": "sky.com.br"
+ },
+ {
+  "name": "NBA League Pass",
+  "category": "Sports & live TV",
+  "domain": "nba.com"
+ },
+ {
+  "name": "F1 TV",
+  "category": "Sports & live TV",
+  "domain": "f1tv.formula1.com"
+ },
+ {
+  "name": "ESPN",
+  "category": "Sports & live TV",
+  "domain": "espn.com"
+ },
+ {
+  "name": "UFC Fight Pass",
+  "category": "Sports & live TV",
+  "domain": "ufcfightpass.com"
+ },
+ {
+  "name": "Xbox Game Pass",
+  "category": "Gaming",
+  "domain": "xbox.com",
+  "plans": [
+   {
+    "name": "Essential",
+    "priceCents": 4390,
+    "currency": "BRL",
+    "cycle": "monthly"
+   },
+   {
+    "name": "Premium",
+    "priceCents": 5990,
+    "currency": "BRL",
+    "cycle": "monthly"
+   },
+   {
+    "name": "PC",
+    "priceCents": 5999,
+    "currency": "BRL",
+    "cycle": "monthly"
+   },
+   {
+    "name": "Ultimate",
+    "priceCents": 7690,
+    "currency": "BRL",
+    "cycle": "monthly"
+   }
+  ]
+ },
+ {
+  "name": "PlayStation Plus",
+  "category": "Gaming",
+  "domain": "playstation.com",
+  "plans": [
+   {
+    "name": "Essential",
+    "priceCents": 4990,
+    "currency": "BRL",
+    "cycle": "monthly"
+   },
+   {
+    "name": "Extra",
+    "priceCents": 7490,
+    "currency": "BRL",
+    "cycle": "monthly"
+   },
+   {
+    "name": "Deluxe",
+    "priceCents": 8690,
+    "currency": "BRL",
+    "cycle": "monthly"
+   },
+   {
+    "name": "Essential annual",
+    "priceCents": 35990,
+    "currency": "BRL",
+    "cycle": "yearly"
+   },
+   {
+    "name": "Extra annual",
+    "priceCents": 59290,
+    "currency": "BRL",
+    "cycle": "yearly"
+   },
+   {
+    "name": "Deluxe annual",
+    "priceCents": 69190,
+    "currency": "BRL",
+    "cycle": "yearly"
+   }
+  ]
+ },
+ {
+  "name": "Nintendo Switch Online",
+  "category": "Gaming",
+  "domain": "nintendo.com"
+ },
+ {
+  "name": "EA Play",
+  "category": "Gaming",
+  "domain": "ea.com"
+ },
+ {
+  "name": "Ubisoft+",
+  "category": "Gaming",
+  "domain": "ubisoft.com"
+ },
+ {
+  "name": "GeForce NOW",
+  "category": "Gaming",
+  "domain": "nvidia.com"
+ },
+ {
+  "name": "Apple Arcade",
+  "category": "Gaming",
+  "domain": "apple.com"
+ },
+ {
+  "name": "Discord Nitro",
+  "category": "Gaming",
+  "domain": "discord.com"
+ },
+ {
+  "name": "Roblox Premium",
+  "category": "Gaming",
+  "domain": "roblox.com"
+ },
+ {
+  "name": "iCloud+",
+  "category": "Cloud & storage",
+  "domain": "icloud.com",
+  "plans": [
+   {
+    "name": "50 GB",
+    "priceCents": 590,
+    "currency": "BRL",
+    "cycle": "monthly"
+   },
+   {
+    "name": "200 GB",
+    "priceCents": 1990,
+    "currency": "BRL",
+    "cycle": "monthly"
+   }
+  ]
+ },
+ {
+  "name": "Google One",
+  "category": "Cloud & storage",
+  "domain": "one.google.com",
+  "plans": [
+   {
+    "name": "200 GB",
+    "priceCents": 1499,
+    "currency": "BRL",
+    "cycle": "monthly"
+   },
+   {
+    "name": "200 GB annual",
+    "priceCents": 14999,
+    "currency": "BRL",
+    "cycle": "yearly"
+   }
+  ]
+ },
+ {
+  "name": "Dropbox",
+  "category": "Cloud & storage",
+  "domain": "dropbox.com"
+ },
+ {
+  "name": "Microsoft 365",
+  "category": "Cloud & storage",
+  "domain": "microsoft.com"
+ },
+ {
+  "name": "Box",
+  "category": "Cloud & storage",
+  "domain": "box.com"
+ },
+ {
+  "name": "pCloud",
+  "category": "Cloud & storage",
+  "domain": "pcloud.com"
+ },
+ {
+  "name": "Backblaze",
+  "category": "Cloud & storage",
+  "domain": "backblaze.com"
+ },
+ {
+  "name": "ChatGPT Plus",
+  "category": "AI & productivity",
+  "domain": "chatgpt.com"
+ },
+ {
+  "name": "Claude Pro",
+  "category": "AI & productivity",
+  "domain": "claude.ai"
+ },
+ {
+  "name": "Gemini Advanced",
+  "category": "AI & productivity",
+  "domain": "gemini.google.com"
+ },
+ {
+  "name": "Perplexity Pro",
+  "category": "AI & productivity",
+  "domain": "perplexity.ai"
+ },
+ {
+  "name": "Midjourney",
+  "category": "AI & productivity",
+  "domain": "midjourney.com"
+ },
+ {
+  "name": "GitHub Copilot",
+  "category": "AI & productivity",
+  "domain": "github.com"
+ },
+ {
+  "name": "Cursor",
+  "category": "AI & productivity",
+  "domain": "cursor.com"
+ },
+ {
+  "name": "Notion",
+  "category": "AI & productivity",
+  "domain": "notion.so"
+ },
+ {
+  "name": "Canva Pro",
+  "category": "AI & productivity",
+  "domain": "canva.com"
+ },
+ {
+  "name": "Adobe Creative Cloud",
+  "category": "AI & productivity",
+  "domain": "adobe.com"
+ },
+ {
+  "name": "Figma",
+  "category": "AI & productivity",
+  "domain": "figma.com"
+ },
+ {
+  "name": "Todoist",
+  "category": "AI & productivity",
+  "domain": "todoist.com"
+ },
+ {
+  "name": "Evernote",
+  "category": "AI & productivity",
+  "domain": "evernote.com"
+ },
+ {
+  "name": "Grammarly",
+  "category": "AI & productivity",
+  "domain": "grammarly.com"
+ },
+ {
+  "name": "Slack",
+  "category": "AI & productivity",
+  "domain": "slack.com"
+ },
+ {
+  "name": "Zoom",
+  "category": "AI & productivity",
+  "domain": "zoom.us"
+ },
+ {
+  "name": "Google Workspace",
+  "category": "AI & productivity",
+  "domain": "workspace.google.com"
+ },
+ {
+  "name": "CapCut Pro",
+  "category": "AI & productivity",
+  "domain": "capcut.com"
+ },
+ {
+  "name": "Linear",
+  "category": "AI & productivity",
+  "domain": "linear.app"
+ },
+ {
+  "name": "Obsidian Sync",
+  "category": "AI & productivity",
+  "domain": "obsidian.md"
+ },
+ {
+  "name": "Kindle Unlimited",
+  "category": "Reading & news",
+  "domain": "amazon.com.br"
+ },
+ {
+  "name": "Skeelo",
+  "category": "Reading & news",
+  "domain": "skeelo.app"
+ },
+ {
+  "name": "Medium",
+  "category": "Reading & news",
+  "domain": "medium.com"
+ },
+ {
+  "name": "Folha de S.Paulo",
+  "category": "Reading & news",
+  "domain": "folha.uol.com.br"
+ },
+ {
+  "name": "Estadão",
+  "category": "Reading & news",
+  "domain": "estadao.com.br"
+ },
+ {
+  "name": "O Globo",
+  "category": "Reading & news",
+  "domain": "oglobo.globo.com"
+ },
+ {
+  "name": "Valor Econômico",
+  "category": "Reading & news",
+  "domain": "valor.globo.com"
+ },
+ {
+  "name": "The New York Times",
+  "category": "Reading & news",
+  "domain": "nytimes.com"
+ },
+ {
+  "name": "The Economist",
+  "category": "Reading & news",
+  "domain": "economist.com"
+ },
+ {
+  "name": "Substack",
+  "category": "Reading & news",
+  "domain": "substack.com"
+ },
+ {
+  "name": "Scribd",
+  "category": "Reading & news",
+  "domain": "scribd.com"
+ },
+ {
+  "name": "Blinkist",
+  "category": "Reading & news",
+  "domain": "blinkist.com"
+ },
+ {
+  "name": "Duolingo Super",
+  "category": "Education & languages",
+  "domain": "duolingo.com"
+ },
+ {
+  "name": "Babbel",
+  "category": "Education & languages",
+  "domain": "babbel.com"
+ },
+ {
+  "name": "Alura",
+  "category": "Education & languages",
+  "domain": "alura.com.br"
+ },
+ {
+  "name": "Coursera Plus",
+  "category": "Education & languages",
+  "domain": "coursera.org"
+ },
+ {
+  "name": "Udemy Personal Plan",
+  "category": "Education & languages",
+  "domain": "udemy.com"
+ },
+ {
+  "name": "LinkedIn Premium",
+  "category": "Education & languages",
+  "domain": "linkedin.com"
+ },
+ {
+  "name": "Rocketseat",
+  "category": "Education & languages",
+  "domain": "rocketseat.com.br"
+ },
+ {
+  "name": "MasterClass",
+  "category": "Education & languages",
+  "domain": "masterclass.com"
+ },
+ {
+  "name": "Busuu",
+  "category": "Education & languages",
+  "domain": "busuu.com"
+ },
+ {
+  "name": "Brilliant",
+  "category": "Education & languages",
+  "domain": "brilliant.org"
+ },
+ {
+  "name": "Frontend Masters",
+  "category": "Education & languages",
+  "domain": "frontendmasters.com"
+ },
+ {
+  "name": "Amazon Prime",
+  "category": "Delivery & shopping",
+  "domain": "amazon.com.br",
+  "plans": [
+   {
+    "name": "Monthly",
+    "priceCents": 1990,
+    "currency": "BRL",
+    "cycle": "monthly"
+   },
+   {
+    "name": "Annual",
+    "priceCents": 16680,
+    "currency": "BRL",
+    "cycle": "yearly"
+   }
+  ]
+ },
+ {
+  "name": "iFood Clube",
+  "category": "Delivery & shopping",
+  "domain": "ifood.com.br"
+ },
+ {
+  "name": "Meli+",
+  "category": "Delivery & shopping",
+  "domain": "mercadolivre.com.br"
+ },
+ {
+  "name": "Rappi Turbo",
+  "category": "Delivery & shopping",
+  "domain": "rappi.com.br"
+ },
+ {
+  "name": "Uber One",
+  "category": "Delivery & shopping",
+  "domain": "uber.com"
+ },
+ {
+  "name": "Shopee VIP",
+  "category": "Delivery & shopping",
+  "domain": "shopee.com.br"
+ },
+ {
+  "name": "Magalu",
+  "category": "Delivery & shopping",
+  "domain": "magazineluiza.com.br"
+ },
+ {
+  "name": "Wellhub (Gympass)",
+  "category": "Fitness & health",
+  "domain": "wellhub.com"
+ },
+ {
+  "name": "TotalPass",
+  "category": "Fitness & health",
+  "domain": "totalpass.com"
+ },
+ {
+  "name": "Smart Fit",
+  "category": "Fitness & health",
+  "domain": "smartfit.com.br"
+ },
+ {
+  "name": "Strava",
+  "category": "Fitness & health",
+  "domain": "strava.com"
+ },
+ {
+  "name": "Apple Fitness+",
+  "category": "Fitness & health",
+  "domain": "apple.com"
+ },
+ {
+  "name": "Calm",
+  "category": "Fitness & health",
+  "domain": "calm.com"
+ },
+ {
+  "name": "Headspace",
+  "category": "Fitness & health",
+  "domain": "headspace.com"
+ },
+ {
+  "name": "Peloton",
+  "category": "Fitness & health",
+  "domain": "onepeloton.com"
+ },
+ {
+  "name": "MyFitnessPal",
+  "category": "Fitness & health",
+  "domain": "myfitnesspal.com"
+ },
+ {
+  "name": "Flo",
+  "category": "Fitness & health",
+  "domain": "flo.health"
+ },
+ {
+  "name": "NordVPN",
+  "category": "Security & VPN",
+  "domain": "nordvpn.com"
+ },
+ {
+  "name": "ExpressVPN",
+  "category": "Security & VPN",
+  "domain": "expressvpn.com"
+ },
+ {
+  "name": "Surfshark",
+  "category": "Security & VPN",
+  "domain": "surfshark.com"
+ },
+ {
+  "name": "Proton",
+  "category": "Security & VPN",
+  "domain": "proton.me"
+ },
+ {
+  "name": "1Password",
+  "category": "Security & VPN",
+  "domain": "1password.com"
+ },
+ {
+  "name": "Bitwarden",
+  "category": "Security & VPN",
+  "domain": "bitwarden.com"
+ },
+ {
+  "name": "Norton",
+  "category": "Security & VPN",
+  "domain": "norton.com"
+ },
+ {
+  "name": "Kaspersky",
+  "category": "Security & VPN",
+  "domain": "kaspersky.com"
+ },
+ {
+  "name": "Apple One",
+  "category": "Bundles",
+  "domain": "apple.com"
+ },
+ {
+  "name": "Disney+ Bundle (Disney+ & Max)",
+  "category": "Bundles",
+  "domain": "disneyplus.com"
+ },
+ {
+  "name": "Mobile plan",
+  "category": "Telecom & utilities",
+  "domain": null
+ },
+ {
+  "name": "Home internet",
+  "category": "Telecom & utilities",
+  "domain": null
+ },
+ {
+  "name": "Vivo",
+  "category": "Telecom & utilities",
+  "domain": "vivo.com.br"
+ },
+ {
+  "name": "Claro",
+  "category": "Telecom & utilities",
+  "domain": "claro.com.br"
+ },
+ {
+  "name": "TIM",
+  "category": "Telecom & utilities",
+  "domain": "tim.com.br"
+ },
+ {
+  "name": "Tinder",
+  "category": "Dating & social",
+  "domain": "tinder.com"
+ },
+ {
+  "name": "Bumble",
+  "category": "Dating & social",
+  "domain": "bumble.com"
+ },
+ {
+  "name": "Hinge",
+  "category": "Dating & social",
+  "domain": "hinge.co"
+ },
+ {
+  "name": "X Premium",
+  "category": "Dating & social",
+  "domain": "x.com"
+ },
+ {
+  "name": "Telegram Premium",
+  "category": "Dating & social",
+  "domain": "telegram.org"
+ },
+ {
+  "name": "Snapchat+",
+  "category": "Dating & social",
+  "domain": "snapchat.com"
+ }
+]
